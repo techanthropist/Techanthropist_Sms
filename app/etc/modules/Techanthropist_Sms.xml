@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Techanthropist_Sms>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Techanthropist_Sms>
+    </modules>
+</config>
